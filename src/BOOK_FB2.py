@@ -5,7 +5,7 @@ from xml.dom import minidom
 
 from pprint import pprint
 
-CHAPTERS_PATH = './book-fb2'
+CHAPTERS_PATH = './book-txt'
 TEXT_ENCODING = 'utf-8'
 BOOK_FILE = "ExampleBook.fb2"
 
