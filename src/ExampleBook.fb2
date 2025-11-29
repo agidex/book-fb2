@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <description>
+        <title-info>
+            <genre>sf</genre>
+            <genre>sf_fantasy</genre>
+            <author>
+                <nickname>Ae_Mc</nickname>
+                <first-name>Alex</first-name>
+                <middle-name>Unknown</middle-name>
+                <home-page>ae-mc.ru</home-page>
+                <email>ae_mc@mail.ru</email>
+            </author>
+            <book-title>Example book</book-title>
+            <annotation>
+                <p>Small test book. Shows basics of FB2 library</p>
+            </annotation>
+            <lang>en</lang>
+        </title-info>
+        <document-info>
+            <program-used>Ae-Mc's FB2 library</program-used>
+            <date value="2025-11-29">29.11.2025</date>
+            <id>90e381c8a2da431ca79563221c3d9c03</id>
+            <version>1.0</version>
+        </document-info>
+    </description>
+    <body>
+        <title>
+            <p>Example book</p>
+        </title>
+        <section>
+            <title>
+                <p>Part One</p>
+            </title>
+            <section>
+                <title>
+                    <p>Chapter 1.1</p>
+                </title>
+                <p>text text text</p>
+            </section>
+            <section>
+                <title>
+                    <p>Chapter 1.2</p>
+                </title>
+                <p>text text text</p>
+            </section>
+        </section>
+        <section>
+            <title>
+                <p>Part Two</p>
+            </title>
+            <section>
+                <title>
+                    <p>Chapter 2.1</p>
+                </title>
+                <p>text text text</p>
+            </section>
+            <section>
+                <title>
+                    <p>Chapter 2.2</p>
+                </title>
+                <p>text text text</p>
+            </section>
+            <section>
+                <title>
+                    <p>SubPart 25</p>
+                </title>
+                <section>
+                    <title>
+                        <p>Chapter 3.1</p>
+                    </title>
+                    <p>text text text</p>
+                </section>
+                <section>
+                    <title>
+                        <p>Chapter 3.2</p>
+                    </title>
+                    <p>text text text</p>
+                </section>
+            </section>
+            <section>
+                <title>
+                    <p>Chapter 2.4</p>
+                </title>
+                <p>text text text</p>
+            </section>
+            <section>
+                <title>
+                    <p>Chapter 2.5</p>
+                </title>
+                <p>text text text</p>
+            </section>
+            <section>
+                <title>
+                    <p>Chapter 2.6</p>
+                </title>
+                <p>text text text</p>
+            </section>
+        </section>
+        <section>
+            <title>
+                <p>Part Three</p>
+            </title>
+            <section>
+                <title>
+                    <p>Chapter 1.1</p>
+                </title>
+                <p>text text text</p>
+            </section>
+        </section>
+    </body>
+</FictionBook>
